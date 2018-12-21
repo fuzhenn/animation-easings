@@ -32,6 +32,8 @@ const x = easingOutExpo(0.5);
 
 Easing functions:
 
+[Demos](https://easings.net/)
+
 * swing
 * easeInQuad
 * easeOutQuad
