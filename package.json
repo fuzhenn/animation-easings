@@ -1,0 +1,29 @@
+{
+  "name": "animation-easings",
+  "version": "0.1.0",
+  "description": "Animation easing functions",
+  "main": "src/index.js",
+  "module": "src/index.js",
+  "jsnext:main": "src/index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fuzhenn/animation-easings.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fuzhenn/animation-easings/issues"
+  },
+  "homepage": "https://github.com/fuzhenn/animation-easings",
+  "files": [
+    "src"
+  ],
+  "keywords": [
+    "animation",
+    "easing"
+  ],
+  "author": "fuzhenn",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
